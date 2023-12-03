@@ -52,7 +52,7 @@ public class Chat extends JFrame {
     private final File chatHistoryFile = new File("chat_history.txt");
     private final ArrayList<String> chatHistory = new ArrayList<>();
 
-    Chat() {
+    public Chat() {
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocation(WINDOW_POSX, WINDOW_POSY);
         setSize(WINDOW_WIDTH, WINDOW_HEIGHT);
@@ -183,7 +183,6 @@ public class Chat extends JFrame {
     private void showMessage(String message) {
         areaMessage.append(message + "\n");
     }
-
 
     public static void main(String[] args) {
         new Chat();
