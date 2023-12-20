@@ -1,4 +1,4 @@
-package ru.gb.seminar4.task1;
+package ru.gb.seminar4.tasks;
 
 import java.util.ArrayList;
 import java.util.Collections;
