@@ -1,7 +1,7 @@
 package ru.gb.seminar6.home;
 
 /**
- * Класс для описание двери
+ * Класс для описания двери
  */
 public class Door {
 
