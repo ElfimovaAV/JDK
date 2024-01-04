@@ -20,7 +20,7 @@
 
     <!-- Зависимости -->
     <dependencies>
-        <!-- Лекция 1.Зависимости junit -->
+        <!-- Зависимости junit -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
